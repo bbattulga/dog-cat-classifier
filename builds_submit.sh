@@ -1,0 +1,1 @@
+ gcloud builds submit --tag gcr.io/spartan-vine-311807/mnist_model@0.1
